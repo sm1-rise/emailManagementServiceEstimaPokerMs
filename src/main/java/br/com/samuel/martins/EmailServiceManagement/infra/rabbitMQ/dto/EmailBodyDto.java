@@ -4,6 +4,6 @@ public record EmailBodyDto(String id,
                            String username,
                            String sendTo,
                            String subject,
-                           String text    ) {
+                           String text) {
 }
 
